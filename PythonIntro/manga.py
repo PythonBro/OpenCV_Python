@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 
-os.chdir("C:\\Users\\Kanazashi\\Documents\\PythonIntro")
+#os.chdir("C:\\Users\\Kanazashi\\Documents\\PythonIntro")
 
 def main():
 
